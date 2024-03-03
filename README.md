@@ -38,7 +38,11 @@ Ce projet est une application web de gestion de l'emploi du temps, développée 
 Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez soumettre une demande de pull avec vos modifications.
 
 ## Auteurs
-- [Imadnajam ]([lien vers votre profil GitHub](https://github.com/Imadnajam)) - Développeur principal
+
+👨‍💻 **Imad Najam**
+- GitHub: [@Imadnajam](https://github.com/Imadnajam)
+  
+Développeur principal et architecte de ce projet, Imad apporte son expertise et sa passion pour la programmation à chaque ligne de code. Son dévou
 
 ## Licence
 Ce projet est sous licence [MIT License](lien vers le fichier LICENSE).
